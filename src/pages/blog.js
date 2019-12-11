@@ -1,5 +1,6 @@
 import React from "react"
-import { graphql } from "gatsby"
+
+import { Link, graphql } from "gatsby"
 import Layout from "./components/layout"
 
 export default ({ data }) => {
@@ -19,6 +20,7 @@ export default ({ data }) => {
                 </span>*/}
               </h3></li>
               {/*<p>{node.excerpt}</p>*/}
+              <p>{node.frontmatter.date}</p>
             </div>
           ))}
           </ul>

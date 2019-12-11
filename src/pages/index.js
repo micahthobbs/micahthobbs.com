@@ -5,7 +5,6 @@ import Layout from "./components/layout"
 
 export default () => (
     <Layout>
-      <h2>👨‍💻</h2>
       <p>
         Researching, designing, and building digital products and services in Canberra
       </p>
