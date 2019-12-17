@@ -6,9 +6,9 @@ import Layout from "./components/layout"
 export default () => (
     <Layout>
       <p>
-        Researching, designing, and building digital products and services in Canberra
+        Researching, designing, and developing digital products and services. 
       </p>
-      <h3>Recent blogs</h3>
+      <h3>Recent posts</h3>
       <ul>
           <li>x</li>
           <li>x</li>

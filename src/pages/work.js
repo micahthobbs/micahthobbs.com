@@ -4,7 +4,7 @@ import Layout from "./components/layout"
 export default () => (
     <Layout>
         <div>
-            <h3>List</h3>
+            <h3>Work</h3>
             <ul>
                 <li>X</li>
                 <li>X</li>
