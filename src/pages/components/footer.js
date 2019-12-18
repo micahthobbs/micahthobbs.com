@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default () => (
-    <div style={{ marginTop: `5rem`, marginBottom: `3rem` }}>
+    <div style={{ marginTop: `3rem`, marginBottom: `3rem` }}>
         {/* <label>Search for anything </label>
         <input type="text" value="" name="search"></input> */}
         <ul style={{ listStyle: `none`, float: `right`, paddingLeft: `0` }}>

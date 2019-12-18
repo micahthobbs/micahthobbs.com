@@ -10,15 +10,11 @@ export default () => (
       </p>
       <h3>Recent posts</h3>
       <ul>
-          <li>x</li>
-          <li>x</li>
-          <li>x</li>
+          <li>Coming soon...</li>
       </ul>
       <h3>Recent work</h3>
       <ul>
-          <li>x</li>
-          <li>x</li>
-          <li>x</li>
+        <li>Coming soon...</li>
       </ul>
     </Layout>
   )

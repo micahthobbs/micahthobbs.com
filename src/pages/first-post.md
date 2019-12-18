@@ -1,6 +1,8 @@
 ---
-title: "First blog post"
-date: "2019-12-11"
+title: "First post"
+date: "2019-12-18"
 ---
 
-This is my first blog post.
+# First post
+
+Most days I read article or blog post on the interent. I thought it was about time I started my own.

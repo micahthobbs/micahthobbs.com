@@ -2,6 +2,7 @@ import React from "react"
 import { useStaticQuery, Link, graphql } from "gatsby"
 
 import Footer from "./footer"
+import Rule from "./rule"
 
 const ListLink = props => (
   <li style={{ display: `inline-block`, margin: `0 2rem`, padding: `1rem 0` }}>
@@ -36,6 +37,7 @@ export default ({ children }) => {
         </ul>
         </header>
         {children}
+        <Rule />
         <Footer />
         </div>
     )
