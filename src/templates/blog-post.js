@@ -7,10 +7,11 @@ export default ({ data }) => {
   return (
     <Layout>
       <div>
-        <h1>{post.frontmatter.title}</h1>
+        <h2>{post.frontmatter.title}</h2>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
       <h3>Comments</h3>
+      <p>No comments? There are intentionally no comments on this site. If you found any errors in this article, please feel free to edit on GitHub.</p>
     </Layout>
   )
 }

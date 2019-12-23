@@ -3,8 +3,6 @@ title: "Why I want to blog"
 date: "2019-12-19"
 ---
 
-# Why I want to blog
-
 There are many reasons why I want to do give blogging a go. They are:
 
 - Blogging is the greatest conversational tool ever invented
