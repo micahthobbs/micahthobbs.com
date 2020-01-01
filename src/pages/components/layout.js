@@ -30,7 +30,7 @@ export default ({ children }) => {
                 <h1 style={{ display: `inline`, fontSize: `2rem` }}><span style={{ fontSize: `2rem` }} >Micah T Hobbs</span></h1>
             </Link>
         <ul style={{ listStyle: `none`, float: `right` }}>
-            <ListLink to="/me/">Me</ListLink>
+            <ListLink to="/me/">About</ListLink>
             <ListLink to="/blog">Blog</ListLink>
             <ListLink to="/work">Work</ListLink>
             {/* <ListLink to="/contact/">Contact</ListLink> */}
